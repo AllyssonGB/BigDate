@@ -1,0 +1,501 @@
+cliente_id,nome,regiao,estado
+1,Angela Lopez,Nordeste,Alagoas
+2,Beth Boyd,Sul,Paraná
+3,Melanie Phillips,Sul,Rio Grande do Sul
+4,Larry Jones,Sul,Paraná
+5,Larry Elliott,Norte,Pará
+6,Samantha Brown,Sul,Rio Grande do Sul
+7,Martin Salinas,Centro-Oeste,Goiás
+8,Gregory Velasquez,Sul,Rio Grande do Sul
+9,Paige Patel,Centro-Oeste,Goiás
+10,John Robinson,Centro-Oeste,Mato Grosso do Sul
+11,Frederick Frederick,Norte,Pará
+12,Alexa Bowers,Sudeste,Rio de Janeiro
+13,Paul Carlson,Centro-Oeste,Goiás
+14,Marisa Williamson,Norte,Amapá
+15,Jasmine Ryan,Sudeste,Espírito Santo
+16,James Bennett,Nordeste,Piauí
+17,Nicole Ortega,Norte,Amapá
+18,Tommy Cochran,Sudeste,São Paulo
+19,Stephanie Thomas,Nordeste,Sergipe
+20,Kimberly Watson,Nordeste,Pernambuco
+21,Timothy Henderson,Sudeste,Espírito Santo
+22,Travis Hicks,Sudeste,Espírito Santo
+23,Bryan Ramos,Sul,Santa Catarina
+24,Rebecca Turner,Nordeste,Paraíba
+25,Henry Webster,Norte,Roraima
+26,Timothy Powers,Sul,Santa Catarina
+27,Julie Nelson,Centro-Oeste,Mato Grosso
+28,Pamela Stewart,Sul,Santa Catarina
+29,Paul Johnson,Norte,Roraima
+30,Michael Chapman,Sul,Rio Grande do Sul
+31,Brian Kelley,Norte,Amazonas
+32,Nicole Reed,Centro-Oeste,Distrito Federal
+33,Christopher Smith,Sudeste,Rio de Janeiro
+34,Jacob Brewer,Centro-Oeste,Distrito Federal
+35,Mitchell Ward,Sudeste,Espírito Santo
+36,Brad Jacobs,Sudeste,Minas Gerais
+37,Susan Lewis,Sul,Rio Grande do Sul
+38,Scott Cruz,Sudeste,São Paulo
+39,James Bowman,Centro-Oeste,Mato Grosso do Sul
+40,Melissa Kim,Sul,Santa Catarina
+41,Paige Campbell,Nordeste,Bahia
+42,James Martinez,Nordeste,Sergipe
+43,Rachel Rice,Norte,Roraima
+44,Jordan Hall,Centro-Oeste,Mato Grosso do Sul
+45,Jodi Williamson,Centro-Oeste,Mato Grosso
+46,Christopher Morgan,Sudeste,São Paulo
+47,Timothy Grant,Sul,Paraná
+48,Maria Perry,Norte,Tocantins
+49,Luis Robinson,Nordeste,Piauí
+50,Jenny Bender,Norte,Acre
+51,Damon Wallace,Sudeste,Minas Gerais
+52,Lindsey Bell,Sudeste,São Paulo
+53,Aaron Campos,Nordeste,Alagoas
+54,Taylor Porter,Norte,Tocantins
+55,Cameron May,Centro-Oeste,Goiás
+56,Stephanie Porter,Sudeste,São Paulo
+57,Sean Lopez,Sul,Rio Grande do Sul
+58,Allison Hansen,Sul,Paraná
+59,Lynn Wilson,Sul,Paraná
+60,Jennifer Brown,Sul,Santa Catarina
+61,Cynthia Hanson,Centro-Oeste,Mato Grosso do Sul
+62,Michele Lam,Sul,Paraná
+63,William Dyer,Norte,Amazonas
+64,Michael Keller,Norte,Tocantins
+65,Audrey Martin,Centro-Oeste,Mato Grosso do Sul
+66,Sara Grant,Sudeste,São Paulo
+67,James Benson,Centro-Oeste,Mato Grosso
+68,Mary Snyder,Norte,Tocantins
+69,Douglas Young,Norte,Acre
+70,Jade Thornton,Sudeste,Minas Gerais
+71,Michael Gonzalez,Sudeste,São Paulo
+72,Wendy Stewart,Norte,Roraima
+73,Jessica Phillips,Norte,Amazonas
+74,James Clark,Sudeste,Minas Gerais
+75,Peter Long,Nordeste,Maranhão
+76,Angela Golden,Nordeste,Ceará
+77,Victoria Gray,Norte,Tocantins
+78,Cheryl Manning,Sul,Rio Grande do Sul
+79,Brittney Ramirez,Sul,Paraná
+80,Alicia Coleman,Norte,Amapá
+81,Steven Hudson,Centro-Oeste,Mato Grosso
+82,Jennifer Hernandez,Sul,Santa Catarina
+83,Joseph Fischer DDS,Sul,Rio Grande do Sul
+84,Steve Price,Norte,Acre
+85,Wesley Hines,Nordeste,Piauí
+86,Kevin Floyd,Norte,Tocantins
+87,Tonya Small,Centro-Oeste,Goiás
+88,Joseph Maxwell,Sudeste,Rio de Janeiro
+89,Jonathan Gaines,Sudeste,Espírito Santo
+90,Mark Hernandez,Centro-Oeste,Mato Grosso do Sul
+91,William Hanson,Sudeste,Rio de Janeiro
+92,Allen Mendez,Centro-Oeste,Mato Grosso
+93,Matthew Lewis,Nordeste,Piauí
+94,Jordan Robinson,Centro-Oeste,Mato Grosso
+95,Amy King,Nordeste,Alagoas
+96,Amanda Taylor,Sudeste,São Paulo
+97,Justin Powell,Centro-Oeste,Mato Grosso do Sul
+98,Justin Ramirez,Norte,Amazonas
+99,Sarah Griffin,Nordeste,Piauí
+100,Krystal Perez,Nordeste,Bahia
+101,Jacob Little,Sul,Santa Catarina
+102,Michelle Christensen,Nordeste,Alagoas
+103,Jeremiah Forbes,Nordeste,Sergipe
+104,Bridget Roberts,Nordeste,Alagoas
+105,Laura Robertson,Sul,Santa Catarina
+106,Jessica Morrison,Nordeste,Ceará
+107,Tina Garcia,Centro-Oeste,Mato Grosso
+108,Lori Mueller,Sul,Paraná
+109,Adrian Bartlett,Sul,Rio Grande do Sul
+110,Colin Williams,Norte,Tocantins
+111,Anthony Dixon,Sul,Paraná
+112,Thomas Collins,Nordeste,Rio Grande do Norte
+113,Aaron Evans,Sudeste,Rio de Janeiro
+114,Cassandra Williams,Centro-Oeste,Mato Grosso do Sul
+115,Melissa Morse,Sul,Rio Grande do Sul
+116,Evan Norton,Sul,Paraná
+117,Angela Logan,Sul,Paraná
+118,Gerald Montoya,Centro-Oeste,Mato Grosso
+119,Sergio Collins,Sudeste,Espírito Santo
+120,Amy Davis,Sudeste,Espírito Santo
+121,Lauren Morrow,Nordeste,Ceará
+122,Sabrina Stanley,Norte,Acre
+123,Taylor Alvarez,Nordeste,Paraíba
+124,James Smith,Sudeste,São Paulo
+125,Marissa Wise,Sudeste,Minas Gerais
+126,Gregory Navarro,Nordeste,Piauí
+127,Joel Hughes,Sudeste,São Paulo
+128,Bridget Sullivan,Centro-Oeste,Goiás
+129,Joyce Holt,Sul,Paraná
+130,Michelle Schmitt,Centro-Oeste,Distrito Federal
+131,Joseph Lutz,Sul,Rio Grande do Sul
+132,Heidi Taylor,Centro-Oeste,Goiás
+133,Kristy Avery,Nordeste,Bahia
+134,Ricky Gordon,Norte,Amazonas
+135,Tammy Garza,Sul,Rio Grande do Sul
+136,Amy Howard,Nordeste,Paraíba
+137,Aaron Ross,Sul,Santa Catarina
+138,Stephanie Flores,Sul,Rio Grande do Sul
+139,Diana Ramirez,Nordeste,Pernambuco
+140,Derrick Brooks,Sudeste,São Paulo
+141,Kelly Jackson,Nordeste,Pernambuco
+142,Kevin Savage,Norte,Amazonas
+143,John Booker,Nordeste,Sergipe
+144,Maria Edwards,Sudeste,Espírito Santo
+145,Kenneth Hart,Norte,Roraima
+146,Angela Mathews,Sul,Rio Grande do Sul
+147,Anita Ortiz,Centro-Oeste,Goiás
+148,Christopher Hill,Nordeste,Rio Grande do Norte
+149,Jamie Davis,Sudeste,Rio de Janeiro
+150,Cindy Gordon,Sudeste,São Paulo
+151,James Stewart,Centro-Oeste,Mato Grosso
+152,Timothy Keller,Norte,Roraima
+153,Heather Sullivan,Sul,Rio Grande do Sul
+154,Diane Miles,Centro-Oeste,Mato Grosso do Sul
+155,Joseph Howard,Norte,Amapá
+156,Stephanie Flores,Nordeste,Ceará
+157,Justin Simmons,Sul,Rio Grande do Sul
+158,Gerald Wilson,Nordeste,Bahia
+159,Maureen Doyle,Sul,Rio Grande do Sul
+160,Gregory Flores,Nordeste,Rio Grande do Norte
+161,Stephanie Acosta,Sudeste,São Paulo
+162,Ann Booker,Norte,Amapá
+163,Jason Howell,Norte,Roraima
+164,Manuel Berry,Sudeste,São Paulo
+165,Jonathon Duncan,Sudeste,Rio de Janeiro
+166,Cindy Donovan,Sudeste,Rio de Janeiro
+167,Thomas Fitzgerald,Nordeste,Alagoas
+168,Mary Burgess,Norte,Amazonas
+169,Courtney Sandoval,Norte,Rondônia
+170,James Ortiz,Nordeste,Piauí
+171,Hannah Reed,Sudeste,Rio de Janeiro
+172,Nathan Campbell,Norte,Tocantins
+173,Dawn Griffith,Sul,Paraná
+174,Steven Wood,Norte,Pará
+175,Devin Young,Sudeste,Rio de Janeiro
+176,Felicia Lawson,Nordeste,Paraíba
+177,David Scott,Norte,Amapá
+178,Jason Wade,Nordeste,Piauí
+179,Jeremy Harris,Sudeste,Minas Gerais
+180,Anthony Harris,Norte,Roraima
+181,Justin Gutierrez,Sudeste,Minas Gerais
+182,Candace Shelton,Nordeste,Paraíba
+183,Donna Bradley,Sul,Rio Grande do Sul
+184,Brittany Floyd,Sul,Paraná
+185,Melissa Gibson,Sul,Santa Catarina
+186,Derek Walker,Nordeste,Paraíba
+187,Lauren Archer,Norte,Roraima
+188,Kyle Rivera,Norte,Amapá
+189,Catherine Cole,Centro-Oeste,Goiás
+190,Andrew Montoya,Sudeste,Espírito Santo
+191,Jeffrey Williams,Sul,Paraná
+192,Janet Walker,Centro-Oeste,Goiás
+193,Kristina Johnson,Sudeste,Rio de Janeiro
+194,Warren Stokes,Centro-Oeste,Mato Grosso
+195,Kenneth Daniels,Norte,Rondônia
+196,Daniel Klein,Centro-Oeste,Mato Grosso
+197,Gina Johnson,Sudeste,Espírito Santo
+198,John Krueger,Sul,Santa Catarina
+199,Laura Schultz,Nordeste,Piauí
+200,Ethan Steele,Nordeste,Alagoas
+201,Michael Farley,Norte,Acre
+202,Michael Cannon,Sul,Rio Grande do Sul
+203,Karla Stanton,Nordeste,Alagoas
+204,Gregory Barrett,Centro-Oeste,Distrito Federal
+205,Heather Taylor,Sudeste,Minas Gerais
+206,Justin Terry,Nordeste,Sergipe
+207,Bonnie Warner,Sul,Paraná
+208,Melissa Camacho,Nordeste,Alagoas
+209,Holly Davenport,Centro-Oeste,Goiás
+210,Maria Payne,Centro-Oeste,Mato Grosso
+211,Adrian Trujillo,Sul,Santa Catarina
+212,Patrick Flores,Norte,Roraima
+213,Melissa Simon,Norte,Amapá
+214,Paul Barnett,Centro-Oeste,Mato Grosso do Sul
+215,Amy Miles,Nordeste,Rio Grande do Norte
+216,Toni Poole,Sudeste,Minas Gerais
+217,Timothy Lee,Centro-Oeste,Goiás
+218,Steven Alvarez,Sul,Santa Catarina
+219,Jeff Jacobs,Norte,Rondônia
+220,Kristine Allen,Norte,Amapá
+221,Michael Ramirez,Centro-Oeste,Goiás
+222,Brian Perez,Centro-Oeste,Mato Grosso
+223,Christopher Arroyo,Norte,Roraima
+224,Joshua Mcgee,Centro-Oeste,Mato Grosso
+225,Kristie Hart,Norte,Pará
+226,Matthew Cruz,Sul,Santa Catarina
+227,Stephen Thompson,Centro-Oeste,Mato Grosso
+228,Nicole Jones,Centro-Oeste,Mato Grosso do Sul
+229,Natasha Gilbert,Norte,Amapá
+230,Carla Ramirez,Centro-Oeste,Distrito Federal
+231,Kevin Brown,Norte,Roraima
+232,Teresa Davila,Sul,Rio Grande do Sul
+233,Rebekah Gilbert,Centro-Oeste,Mato Grosso do Sul
+234,Kevin Lynch,Nordeste,Paraíba
+235,Lawrence Monroe,Sudeste,Rio de Janeiro
+236,Denise Velez,Sul,Rio Grande do Sul
+237,Christy Wallace,Sudeste,São Paulo
+238,Rachel Rodriguez,Sul,Rio Grande do Sul
+239,Brendan Sanchez,Norte,Acre
+240,Lindsey Campos,Sudeste,São Paulo
+241,Terry Soto,Sul,Santa Catarina
+242,Michael Ramirez,Sudeste,Rio de Janeiro
+243,Dennis Wilson,Centro-Oeste,Distrito Federal
+244,Barbara Sanchez,Norte,Roraima
+245,Jessica Edwards,Nordeste,Sergipe
+246,William Joyce,Centro-Oeste,Goiás
+247,Renee Lee,Centro-Oeste,Mato Grosso do Sul
+248,Michael Butler,Sul,Santa Catarina
+249,Gabrielle Sanford,Norte,Amazonas
+250,Jacob Parker,Sudeste,Rio de Janeiro
+251,Destiny Harris,Sul,Santa Catarina
+252,Desiree Gregory,Norte,Tocantins
+253,Brian Reed,Nordeste,Bahia
+254,Michael Murphy,Norte,Tocantins
+255,Dominique Wilson,Norte,Acre
+256,William Anderson,Sul,Rio Grande do Sul
+257,Andrea Brown,Nordeste,Ceará
+258,Carmen Alvarez,Nordeste,Paraíba
+259,Joshua Fields,Sul,Rio Grande do Sul
+260,Cody Greene,Centro-Oeste,Goiás
+261,Kathryn Richardson,Sul,Paraná
+262,Andrea Stevenson,Sul,Paraná
+263,Michael Miller,Norte,Roraima
+264,Christopher Thomas,Sudeste,Minas Gerais
+265,Edward Reynolds,Sudeste,São Paulo
+266,Alicia Davis,Nordeste,Rio Grande do Norte
+267,Vickie Reed,Centro-Oeste,Mato Grosso do Sul
+268,Eric Roy,Norte,Roraima
+269,Joseph Harrison,Sul,Santa Catarina
+270,Alexandra Leon,Centro-Oeste,Distrito Federal
+271,Andrew Swanson,Sudeste,São Paulo
+272,Michael Reynolds,Norte,Roraima
+273,Veronica Lewis,Centro-Oeste,Mato Grosso do Sul
+274,Linda Obrien,Norte,Tocantins
+275,Jennifer Williams,Nordeste,Paraíba
+276,Nathan Thompson,Sudeste,São Paulo
+277,Kathleen Mccormick,Sul,Paraná
+278,Virginia Chase DVM,Sudeste,Espírito Santo
+279,Keith Conway,Norte,Amazonas
+280,Jim Turner,Norte,Rondônia
+281,Benjamin Holland,Sul,Rio Grande do Sul
+282,Mrs. Bonnie Dickson,Centro-Oeste,Mato Grosso do Sul
+283,Monica Hayden,Nordeste,Piauí
+284,Amy Jones,Nordeste,Alagoas
+285,Lauren Rodriguez,Sudeste,Minas Gerais
+286,Kathleen Miller,Norte,Acre
+287,Gabriel Noble,Norte,Roraima
+288,Cody Turner PhD,Norte,Amazonas
+289,Martha Garcia,Norte,Acre
+290,Terri Murphy,Nordeste,Piauí
+291,Lauren Pierce,Centro-Oeste,Goiás
+292,Theodore Lam,Sul,Paraná
+293,Angel Mueller,Sudeste,Espírito Santo
+294,Dr. Michele Sherman MD,Norte,Acre
+295,Steven Kirk,Norte,Tocantins
+296,Stephanie Parker,Nordeste,Maranhão
+297,Carrie Krause,Sul,Paraná
+298,Tracy Campbell,Norte,Pará
+299,Deanna Turner,Norte,Tocantins
+300,Jeffrey Moore,Sudeste,Espírito Santo
+301,Karen Orr,Sul,Rio Grande do Sul
+302,Robert Valencia,Sudeste,Minas Gerais
+303,Jeanne Guerrero,Centro-Oeste,Mato Grosso do Sul
+304,Brianna Walker,Sul,Paraná
+305,Jeff Moreno,Nordeste,Bahia
+306,Amanda Stone,Norte,Roraima
+307,Olivia Lopez,Centro-Oeste,Distrito Federal
+308,David Taylor,Sudeste,Rio de Janeiro
+309,Michelle Gonzales,Norte,Tocantins
+310,Jason Brewer,Sudeste,Espírito Santo
+311,Matthew Huber,Norte,Amazonas
+312,Gregg Miller,Centro-Oeste,Mato Grosso do Sul
+313,Pamela Rogers,Centro-Oeste,Mato Grosso
+314,Kathleen Smith,Sul,Rio Grande do Sul
+315,Emily Ward,Norte,Amapá
+316,Chad Stephens,Norte,Acre
+317,Tiffany Chambers,Nordeste,Bahia
+318,Diane Jacobson,Centro-Oeste,Goiás
+319,Aimee Garcia,Sul,Paraná
+320,Gabriella Griffith,Centro-Oeste,Distrito Federal
+321,Paul Vaughan,Sudeste,Espírito Santo
+322,Christopher Diaz,Sudeste,Espírito Santo
+323,Katherine Vargas,Sul,Santa Catarina
+324,Theresa Jones,Norte,Roraima
+325,Adam Howard,Centro-Oeste,Distrito Federal
+326,Brian Hicks,Centro-Oeste,Mato Grosso
+327,Kelly Knight,Centro-Oeste,Distrito Federal
+328,Randy Olson,Sudeste,Rio de Janeiro
+329,Timothy Cook,Centro-Oeste,Mato Grosso do Sul
+330,Maria Parker,Nordeste,Bahia
+331,Whitney Jacobs,Nordeste,Alagoas
+332,Jesse Brown,Nordeste,Maranhão
+333,Marc Salazar,Nordeste,Paraíba
+334,Tammy Griffin,Centro-Oeste,Mato Grosso
+335,Nicholas Warren,Norte,Tocantins
+336,Shelby Anderson,Centro-Oeste,Goiás
+337,Daniel Wilson,Centro-Oeste,Mato Grosso
+338,Danny Serrano,Norte,Tocantins
+339,Tammy Graham,Sul,Santa Catarina
+340,Craig Davis,Norte,Amapá
+341,Alexis Lucero,Norte,Tocantins
+342,Barry Long,Sudeste,Espírito Santo
+343,Judy Christian,Sul,Rio Grande do Sul
+344,Michael Collins,Norte,Roraima
+345,Robin Russell,Norte,Amapá
+346,Phillip Sanchez,Centro-Oeste,Distrito Federal
+347,Devin Gross,Sul,Santa Catarina
+348,Samantha Jones,Nordeste,Paraíba
+349,David Lane,Sul,Santa Catarina
+350,Melissa Young,Nordeste,Ceará
+351,Dawn Savage,Centro-Oeste,Mato Grosso
+352,Kimberly Ramirez,Nordeste,Bahia
+353,Eric Tucker,Norte,Tocantins
+354,Andrea White,Sudeste,Espírito Santo
+355,Steven Hernandez,Nordeste,Piauí
+356,Christy Anthony,Sudeste,Espírito Santo
+357,Dana Hicks,Norte,Amazonas
+358,Christopher Parker,Nordeste,Bahia
+359,Gloria Jackson,Norte,Roraima
+360,Michael Gilbert,Nordeste,Paraíba
+361,Todd Campbell,Centro-Oeste,Mato Grosso
+362,Janet Nelson,Nordeste,Bahia
+363,Dr. Frederick Erickson IV,Nordeste,Rio Grande do Norte
+364,Melissa Neal,Centro-Oeste,Distrito Federal
+365,Lori Boone,Sudeste,Espírito Santo
+366,Valerie Martinez,Sul,Paraná
+367,Denise Shaw,Sudeste,Rio de Janeiro
+368,Caleb Patterson,Sudeste,Rio de Janeiro
+369,Colin Parker,Norte,Rondônia
+370,Lisa Smith,Nordeste,Piauí
+371,Elizabeth Delgado,Nordeste,Alagoas
+372,Craig Rodriguez,Norte,Amapá
+373,William Lee,Sudeste,Minas Gerais
+374,Antonio Jones,Sul,Rio Grande do Sul
+375,Amber Sanchez,Sul,Rio Grande do Sul
+376,Alexandra Daniels,Nordeste,Rio Grande do Norte
+377,Catherine Walker,Norte,Tocantins
+378,Christopher Estrada,Centro-Oeste,Distrito Federal
+379,David Ali,Sul,Rio Grande do Sul
+380,Chad Leblanc,Nordeste,Rio Grande do Norte
+381,Kenneth Harris,Nordeste,Pernambuco
+382,Lauren Gibson,Sul,Santa Catarina
+383,Lisa Lopez,Sul,Santa Catarina
+384,Dorothy Hicks,Sudeste,Espírito Santo
+385,Ashley Rodriguez,Centro-Oeste,Distrito Federal
+386,Anthony Moore,Norte,Roraima
+387,Stephanie Moran,Centro-Oeste,Goiás
+388,Dustin Lee,Norte,Acre
+389,Darryl Pierce,Nordeste,Paraíba
+390,Lisa Knight,Sudeste,Rio de Janeiro
+391,Victor Harris,Sul,Paraná
+392,Meghan Adams,Sul,Paraná
+393,Matthew Daugherty,Sudeste,Minas Gerais
+394,Austin Stanley,Sul,Santa Catarina
+395,Bryan Montgomery,Norte,Amazonas
+396,Kathryn Cline,Sudeste,Rio de Janeiro
+397,Donald Woods,Sul,Santa Catarina
+398,Caitlin Vargas,Sudeste,Espírito Santo
+399,Frederick Clark,Norte,Roraima
+400,Christopher Washington,Sul,Paraná
+401,John Dougherty,Nordeste,Bahia
+402,Tyler Andrews,Norte,Roraima
+403,Timothy Goodman,Sudeste,Rio de Janeiro
+404,Nicholas Perry,Sudeste,Rio de Janeiro
+405,Elizabeth Williams,Sudeste,São Paulo
+406,Brandon Oconnor,Sudeste,Espírito Santo
+407,Timothy Williams,Sudeste,São Paulo
+408,Zachary Medina,Sul,Rio Grande do Sul
+409,Brian Johnson,Nordeste,Sergipe
+410,Michelle Duran,Norte,Acre
+411,Jeremiah Williams,Centro-Oeste,Distrito Federal
+412,Daniel Hall,Sul,Paraná
+413,Melinda Hines,Norte,Rondônia
+414,Christina Simmons,Sudeste,Rio de Janeiro
+415,Patrick Riley,Sul,Rio Grande do Sul
+416,Michele Braun,Sudeste,Espírito Santo
+417,Steven White,Norte,Roraima
+418,Monica Dennis,Norte,Roraima
+419,Benjamin Stafford,Centro-Oeste,Mato Grosso do Sul
+420,Cindy Hicks,Sul,Paraná
+421,Larry Young,Sudeste,Minas Gerais
+422,Rachel Kent,Nordeste,Alagoas
+423,Miss Karen Garcia,Norte,Roraima
+424,Maria Fisher,Sul,Santa Catarina
+425,Ethan Williamson,Sudeste,São Paulo
+426,Brandon Carter,Centro-Oeste,Mato Grosso do Sul
+427,Daniel Mcdaniel,Norte,Rondônia
+428,Jorge Green,Norte,Acre
+429,Jason Moore,Sudeste,Minas Gerais
+430,Nicole Stevens,Centro-Oeste,Mato Grosso
+431,Susan Ferguson,Centro-Oeste,Goiás
+432,Derek Garcia,Sudeste,Minas Gerais
+433,Monica Noble,Sudeste,Rio de Janeiro
+434,Seth Ellison,Nordeste,Pernambuco
+435,Bailey Green,Sul,Rio Grande do Sul
+436,Lauren Gonzalez,Centro-Oeste,Distrito Federal
+437,Christie Taylor,Sudeste,Minas Gerais
+438,Natalie Mcknight,Nordeste,Ceará
+439,Paul Lozano,Centro-Oeste,Distrito Federal
+440,Jason Anderson,Norte,Acre
+441,Andrew Sanders,Sudeste,Rio de Janeiro
+442,Kyle Rodriguez,Sudeste,Rio de Janeiro
+443,Tammy Miller,Norte,Amazonas
+444,Robert Simon,Sudeste,São Paulo
+445,Carlos Hart,Nordeste,Alagoas
+446,Joseph Wilson,Sudeste,São Paulo
+447,Jacob Keith,Nordeste,Rio Grande do Norte
+448,Lindsey Campbell,Sul,Paraná
+449,Jason Clarke,Sudeste,Minas Gerais
+450,Karen Bowen,Sudeste,Minas Gerais
+451,Tammy Williams,Sul,Rio Grande do Sul
+452,Derrick Griffin,Norte,Rondônia
+453,Max White,Sul,Rio Grande do Sul
+454,Daniel Stout,Centro-Oeste,Goiás
+455,Pamela White,Centro-Oeste,Goiás
+456,Felicia Perry,Centro-Oeste,Goiás
+457,Curtis Maldonado,Norte,Amazonas
+458,Joshua Smith,Sudeste,Minas Gerais
+459,Olivia Fowler,Centro-Oeste,Distrito Federal
+460,Shawn Krause,Nordeste,Alagoas
+461,Jessica Ruiz,Norte,Roraima
+462,Dana Young,Nordeste,Pernambuco
+463,Miss Susan Harvey,Sul,Rio Grande do Sul
+464,Steven Montoya,Nordeste,Paraíba
+465,Crystal Davis,Nordeste,Ceará
+466,Pamela Mccann DDS,Centro-Oeste,Mato Grosso
+467,Christian Anderson,Sul,Santa Catarina
+468,Carrie Dean,Norte,Amazonas
+469,Cassandra Hernandez,Sudeste,São Paulo
+470,Michael Trevino,Sudeste,Espírito Santo
+471,Mary Russo,Nordeste,Alagoas
+472,Oscar Quinn,Sudeste,Espírito Santo
+473,Jessica White,Norte,Rondônia
+474,Jennifer Summers,Norte,Tocantins
+475,Stephen Joyce,Norte,Pará
+476,Melanie Phelps,Centro-Oeste,Mato Grosso
+477,Daniel Garrett,Nordeste,Ceará
+478,Angela Owens,Norte,Amapá
+479,Victoria Hood,Norte,Amazonas
+480,Tracy Romero,Sul,Paraná
+481,Becky Knight,Nordeste,Alagoas
+482,John Lee,Sul,Paraná
+483,Mr. Christopher Campbell Jr.,Centro-Oeste,Mato Grosso do Sul
+484,Kimberly Henry,Centro-Oeste,Mato Grosso do Sul
+485,Allen Hubbard,Centro-Oeste,Goiás
+486,Brandy Bray,Norte,Amapá
+487,Jennifer Clarke,Norte,Amapá
+488,Andrea Patterson,Norte,Rondônia
+489,James Ho,Nordeste,Pernambuco
+490,Alexa Oneal,Centro-Oeste,Mato Grosso do Sul
+491,Andrew Juarez,Centro-Oeste,Mato Grosso
+492,Michelle Miller,Sudeste,São Paulo
+493,Tina Moore,Sudeste,Rio de Janeiro
+494,Hunter Myers,Nordeste,Maranhão
+495,Courtney Smith,Nordeste,Pernambuco
+496,Mathew Ward,Norte,Amapá
+497,Michael Johnson,Sudeste,Rio de Janeiro
+498,Kimberly Price,Norte,Pará
+499,Gerald Thomas,Norte,Pará
+500,Elizabeth Dudley,Centro-Oeste,Goiás

@@ -1,0 +1,501 @@
+produto_id,produto_nome,preco_unitario
+1,Laptop,1519.83
+2,Smartphone,1369.31
+3,Tablet,3432.25
+4,Smartwatch,4293.59
+5,Monitor,1749.75
+6,Teclado Mecânico,634.08
+7,Mouse Gamer,2153.65
+8,Fone de Ouvido Bluetooth,276.72
+9,SSD NVMe,4400.59
+10,Placa de Vídeo,200.67
+11,Processador,3212.07
+12,Memória RAM,3840.44
+13,Placa Mãe,671.61
+14,Fonte de Alimentação,2496.32
+15,Gabinete Gamer,2825.37
+16,Impressora 3D,657.14
+17,Carregador Portátil,3579.21
+18,Câmera de Segurança,3707.76
+19,Roteador Wi-Fi,1171.2
+20,Drone,2884.94
+21,Laptop,3016.01
+22,Smartphone,2913.21
+23,Tablet,3398.31
+24,Smartwatch,102.25
+25,Monitor,4232.0
+26,Teclado Mecânico,4486.02
+27,Mouse Gamer,3946.32
+28,Fone de Ouvido Bluetooth,3341.79
+29,SSD NVMe,4710.82
+30,Placa de Vídeo,2212.45
+31,Processador,3216.85
+32,Memória RAM,2470.52
+33,Placa Mãe,1277.1
+34,Fonte de Alimentação,3541.01
+35,Gabinete Gamer,3354.31
+36,Impressora 3D,4976.64
+37,Carregador Portátil,213.32
+38,Câmera de Segurança,3771.15
+39,Roteador Wi-Fi,3420.71
+40,Drone,481.46
+41,Laptop,4184.95
+42,Smartphone,3117.59
+43,Tablet,4082.19
+44,Smartwatch,2944.89
+45,Monitor,4404.23
+46,Teclado Mecânico,4975.43
+47,Mouse Gamer,2455.93
+48,Fone de Ouvido Bluetooth,3754.24
+49,SSD NVMe,1331.93
+50,Placa de Vídeo,2469.8
+51,Processador,3015.13
+52,Memória RAM,1217.51
+53,Placa Mãe,2893.88
+54,Fonte de Alimentação,3900.31
+55,Gabinete Gamer,2543.64
+56,Impressora 3D,1012.01
+57,Carregador Portátil,3453.59
+58,Câmera de Segurança,2434.23
+59,Roteador Wi-Fi,1663.91
+60,Drone,1912.54
+61,Laptop,752.09
+62,Smartphone,2866.58
+63,Tablet,251.24
+64,Smartwatch,1924.91
+65,Monitor,1007.1
+66,Teclado Mecânico,1227.28
+67,Mouse Gamer,1730.48
+68,Fone de Ouvido Bluetooth,4679.88
+69,SSD NVMe,2147.95
+70,Placa de Vídeo,924.35
+71,Processador,1502.96
+72,Memória RAM,4700.1
+73,Placa Mãe,1696.67
+74,Fonte de Alimentação,2684.9
+75,Gabinete Gamer,3063.05
+76,Impressora 3D,2580.91
+77,Carregador Portátil,1843.92
+78,Câmera de Segurança,3377.58
+79,Roteador Wi-Fi,1503.61
+80,Drone,2522.37
+81,Laptop,2018.52
+82,Smartphone,1061.49
+83,Tablet,4115.49
+84,Smartwatch,3094.51
+85,Monitor,3851.53
+86,Teclado Mecânico,4757.73
+87,Mouse Gamer,4578.0
+88,Fone de Ouvido Bluetooth,4053.82
+89,SSD NVMe,592.23
+90,Placa de Vídeo,632.31
+91,Processador,4851.39
+92,Memória RAM,4409.05
+93,Placa Mãe,1820.65
+94,Fonte de Alimentação,1502.6
+95,Gabinete Gamer,4006.57
+96,Impressora 3D,1633.35
+97,Carregador Portátil,3021.36
+98,Câmera de Segurança,1644.01
+99,Roteador Wi-Fi,4457.34
+100,Drone,2824.22
+101,Laptop,2913.42
+102,Smartphone,587.49
+103,Tablet,3254.97
+104,Smartwatch,2853.63
+105,Monitor,1470.75
+106,Teclado Mecânico,365.61
+107,Mouse Gamer,4737.35
+108,Fone de Ouvido Bluetooth,4614.45
+109,SSD NVMe,321.71
+110,Placa de Vídeo,1254.48
+111,Processador,2401.38
+112,Memória RAM,3002.38
+113,Placa Mãe,4395.56
+114,Fonte de Alimentação,2475.11
+115,Gabinete Gamer,4978.16
+116,Impressora 3D,4282.81
+117,Carregador Portátil,1710.66
+118,Câmera de Segurança,3352.14
+119,Roteador Wi-Fi,1487.1
+120,Drone,740.83
+121,Laptop,258.97
+122,Smartphone,1073.65
+123,Tablet,2851.33
+124,Smartwatch,2099.27
+125,Monitor,4333.48
+126,Teclado Mecânico,4010.13
+127,Mouse Gamer,3856.35
+128,Fone de Ouvido Bluetooth,1152.58
+129,SSD NVMe,4360.57
+130,Placa de Vídeo,4795.01
+131,Processador,4993.89
+132,Memória RAM,1301.5
+133,Placa Mãe,1081.81
+134,Fonte de Alimentação,2718.08
+135,Gabinete Gamer,2991.29
+136,Impressora 3D,4134.18
+137,Carregador Portátil,1699.4
+138,Câmera de Segurança,3077.71
+139,Roteador Wi-Fi,3881.8
+140,Drone,2400.98
+141,Laptop,2016.15
+142,Smartphone,4218.74
+143,Tablet,2282.2
+144,Smartwatch,1755.57
+145,Monitor,965.78
+146,Teclado Mecânico,231.35
+147,Mouse Gamer,172.78
+148,Fone de Ouvido Bluetooth,1229.25
+149,SSD NVMe,2860.8
+150,Placa de Vídeo,3505.33
+151,Processador,3636.24
+152,Memória RAM,1978.09
+153,Placa Mãe,1475.26
+154,Fonte de Alimentação,3798.05
+155,Gabinete Gamer,1267.63
+156,Impressora 3D,339.61
+157,Carregador Portátil,4500.13
+158,Câmera de Segurança,4768.11
+159,Roteador Wi-Fi,325.55
+160,Drone,3667.72
+161,Laptop,4608.17
+162,Smartphone,704.77
+163,Tablet,2300.4
+164,Smartwatch,2066.11
+165,Monitor,3176.11
+166,Teclado Mecânico,712.03
+167,Mouse Gamer,2214.0
+168,Fone de Ouvido Bluetooth,4966.51
+169,SSD NVMe,4453.7
+170,Placa de Vídeo,3961.5
+171,Processador,1943.48
+172,Memória RAM,963.96
+173,Placa Mãe,2461.69
+174,Fonte de Alimentação,4621.01
+175,Gabinete Gamer,2061.44
+176,Impressora 3D,4720.91
+177,Carregador Portátil,3569.77
+178,Câmera de Segurança,1922.14
+179,Roteador Wi-Fi,1036.2
+180,Drone,3729.91
+181,Laptop,4214.95
+182,Smartphone,4816.03
+183,Tablet,1904.55
+184,Smartwatch,182.6
+185,Monitor,2279.35
+186,Teclado Mecânico,2604.12
+187,Mouse Gamer,4579.89
+188,Fone de Ouvido Bluetooth,1740.76
+189,SSD NVMe,578.34
+190,Placa de Vídeo,4420.66
+191,Processador,2289.5
+192,Memória RAM,1070.23
+193,Placa Mãe,4058.93
+194,Fonte de Alimentação,3565.81
+195,Gabinete Gamer,3766.28
+196,Impressora 3D,4232.64
+197,Carregador Portátil,227.22
+198,Câmera de Segurança,1907.63
+199,Roteador Wi-Fi,3921.28
+200,Drone,3242.71
+201,Laptop,2616.88
+202,Smartphone,2179.4
+203,Tablet,1109.54
+204,Smartwatch,3095.41
+205,Monitor,3240.46
+206,Teclado Mecânico,3085.74
+207,Mouse Gamer,3502.82
+208,Fone de Ouvido Bluetooth,717.65
+209,SSD NVMe,2722.75
+210,Placa de Vídeo,4092.95
+211,Processador,1686.8
+212,Memória RAM,4097.99
+213,Placa Mãe,1871.54
+214,Fonte de Alimentação,701.38
+215,Gabinete Gamer,4860.06
+216,Impressora 3D,1150.32
+217,Carregador Portátil,4102.93
+218,Câmera de Segurança,3562.72
+219,Roteador Wi-Fi,1644.73
+220,Drone,3301.3
+221,Laptop,748.4
+222,Smartphone,3456.73
+223,Tablet,1055.76
+224,Smartwatch,3763.72
+225,Monitor,1254.31
+226,Teclado Mecânico,4826.51
+227,Mouse Gamer,2581.86
+228,Fone de Ouvido Bluetooth,1244.01
+229,SSD NVMe,129.33
+230,Placa de Vídeo,3955.12
+231,Processador,3083.87
+232,Memória RAM,4253.7
+233,Placa Mãe,1314.98
+234,Fonte de Alimentação,3688.4
+235,Gabinete Gamer,4501.8
+236,Impressora 3D,3341.82
+237,Carregador Portátil,2011.72
+238,Câmera de Segurança,4534.33
+239,Roteador Wi-Fi,1947.02
+240,Drone,2857.88
+241,Laptop,3193.13
+242,Smartphone,1650.76
+243,Tablet,2954.59
+244,Smartwatch,2911.4
+245,Monitor,1961.27
+246,Teclado Mecânico,3031.68
+247,Mouse Gamer,399.2
+248,Fone de Ouvido Bluetooth,1469.88
+249,SSD NVMe,3718.63
+250,Placa de Vídeo,3123.58
+251,Processador,422.12
+252,Memória RAM,4967.82
+253,Placa Mãe,4110.76
+254,Fonte de Alimentação,2468.95
+255,Gabinete Gamer,2826.1
+256,Impressora 3D,3795.1
+257,Carregador Portátil,4427.48
+258,Câmera de Segurança,2645.71
+259,Roteador Wi-Fi,3094.41
+260,Drone,989.48
+261,Laptop,4053.33
+262,Smartphone,2297.59
+263,Tablet,3625.42
+264,Smartwatch,1873.96
+265,Monitor,3849.72
+266,Teclado Mecânico,2577.04
+267,Mouse Gamer,1279.66
+268,Fone de Ouvido Bluetooth,219.03
+269,SSD NVMe,1190.94
+270,Placa de Vídeo,1062.77
+271,Processador,3124.26
+272,Memória RAM,4425.91
+273,Placa Mãe,2210.33
+274,Fonte de Alimentação,3162.29
+275,Gabinete Gamer,4715.83
+276,Impressora 3D,3541.03
+277,Carregador Portátil,1953.41
+278,Câmera de Segurança,3888.06
+279,Roteador Wi-Fi,1755.82
+280,Drone,3431.99
+281,Laptop,628.07
+282,Smartphone,4962.37
+283,Tablet,2658.53
+284,Smartwatch,1510.57
+285,Monitor,4068.33
+286,Teclado Mecânico,963.41
+287,Mouse Gamer,2353.41
+288,Fone de Ouvido Bluetooth,2094.42
+289,SSD NVMe,3429.27
+290,Placa de Vídeo,3508.59
+291,Processador,2929.12
+292,Memória RAM,3704.89
+293,Placa Mãe,3695.98
+294,Fonte de Alimentação,4912.89
+295,Gabinete Gamer,474.18
+296,Impressora 3D,3044.71
+297,Carregador Portátil,2217.32
+298,Câmera de Segurança,4552.97
+299,Roteador Wi-Fi,419.21
+300,Drone,2859.27
+301,Laptop,3767.85
+302,Smartphone,1005.16
+303,Tablet,1208.58
+304,Smartwatch,109.41
+305,Monitor,3064.44
+306,Teclado Mecânico,222.14
+307,Mouse Gamer,4126.73
+308,Fone de Ouvido Bluetooth,4062.9
+309,SSD NVMe,2407.85
+310,Placa de Vídeo,4735.86
+311,Processador,1357.65
+312,Memória RAM,518.65
+313,Placa Mãe,3428.73
+314,Fonte de Alimentação,3739.2
+315,Gabinete Gamer,2510.33
+316,Impressora 3D,1290.32
+317,Carregador Portátil,2163.05
+318,Câmera de Segurança,4772.65
+319,Roteador Wi-Fi,3083.96
+320,Drone,3075.62
+321,Laptop,3430.0
+322,Smartphone,4238.6
+323,Tablet,755.58
+324,Smartwatch,2934.68
+325,Monitor,3250.45
+326,Teclado Mecânico,2886.94
+327,Mouse Gamer,746.53
+328,Fone de Ouvido Bluetooth,1023.07
+329,SSD NVMe,747.7
+330,Placa de Vídeo,1509.07
+331,Processador,1736.06
+332,Memória RAM,210.84
+333,Placa Mãe,1452.16
+334,Fonte de Alimentação,663.16
+335,Gabinete Gamer,3186.14
+336,Impressora 3D,2394.56
+337,Carregador Portátil,2046.14
+338,Câmera de Segurança,1267.2
+339,Roteador Wi-Fi,823.77
+340,Drone,2903.15
+341,Laptop,696.24
+342,Smartphone,480.8
+343,Tablet,1220.01
+344,Smartwatch,1853.05
+345,Monitor,2684.46
+346,Teclado Mecânico,375.66
+347,Mouse Gamer,4103.03
+348,Fone de Ouvido Bluetooth,3983.31
+349,SSD NVMe,534.92
+350,Placa de Vídeo,971.87
+351,Processador,3653.6
+352,Memória RAM,645.79
+353,Placa Mãe,2048.07
+354,Fonte de Alimentação,2351.68
+355,Gabinete Gamer,3431.63
+356,Impressora 3D,1844.45
+357,Carregador Portátil,4480.72
+358,Câmera de Segurança,2355.87
+359,Roteador Wi-Fi,3427.15
+360,Drone,4381.96
+361,Laptop,3065.11
+362,Smartphone,4056.4
+363,Tablet,2439.54
+364,Smartwatch,3126.84
+365,Monitor,2280.3
+366,Teclado Mecânico,1736.18
+367,Mouse Gamer,2395.13
+368,Fone de Ouvido Bluetooth,2766.49
+369,SSD NVMe,2072.33
+370,Placa de Vídeo,2015.67
+371,Processador,926.0
+372,Memória RAM,1904.65
+373,Placa Mãe,4300.31
+374,Fonte de Alimentação,3254.7
+375,Gabinete Gamer,1534.84
+376,Impressora 3D,2808.99
+377,Carregador Portátil,4409.24
+378,Câmera de Segurança,3896.67
+379,Roteador Wi-Fi,236.83
+380,Drone,2901.95
+381,Laptop,3254.42
+382,Smartphone,239.8
+383,Tablet,2274.41
+384,Smartwatch,4598.83
+385,Monitor,4083.39
+386,Teclado Mecânico,2061.42
+387,Mouse Gamer,4107.36
+388,Fone de Ouvido Bluetooth,4251.57
+389,SSD NVMe,454.65
+390,Placa de Vídeo,4569.86
+391,Processador,2955.71
+392,Memória RAM,4693.41
+393,Placa Mãe,585.56
+394,Fonte de Alimentação,1640.68
+395,Gabinete Gamer,1434.92
+396,Impressora 3D,2934.86
+397,Carregador Portátil,2848.32
+398,Câmera de Segurança,3520.24
+399,Roteador Wi-Fi,1706.02
+400,Drone,1493.95
+401,Laptop,2370.59
+402,Smartphone,1691.81
+403,Tablet,2528.73
+404,Smartwatch,4885.29
+405,Monitor,3457.63
+406,Teclado Mecânico,1267.44
+407,Mouse Gamer,4679.0
+408,Fone de Ouvido Bluetooth,1433.8
+409,SSD NVMe,4639.33
+410,Placa de Vídeo,1393.68
+411,Processador,901.81
+412,Memória RAM,1547.73
+413,Placa Mãe,2357.3
+414,Fonte de Alimentação,528.87
+415,Gabinete Gamer,2286.0
+416,Impressora 3D,4177.75
+417,Carregador Portátil,4621.32
+418,Câmera de Segurança,2408.2
+419,Roteador Wi-Fi,4317.81
+420,Drone,2598.23
+421,Laptop,3040.94
+422,Smartphone,1431.58
+423,Tablet,495.64
+424,Smartwatch,1530.39
+425,Monitor,1640.4
+426,Teclado Mecânico,2179.87
+427,Mouse Gamer,3383.26
+428,Fone de Ouvido Bluetooth,2209.43
+429,SSD NVMe,1685.69
+430,Placa de Vídeo,2127.18
+431,Processador,1501.28
+432,Memória RAM,4143.97
+433,Placa Mãe,4621.76
+434,Fonte de Alimentação,1562.64
+435,Gabinete Gamer,130.43
+436,Impressora 3D,656.75
+437,Carregador Portátil,242.87
+438,Câmera de Segurança,793.82
+439,Roteador Wi-Fi,3061.73
+440,Drone,4463.58
+441,Laptop,3786.99
+442,Smartphone,4956.41
+443,Tablet,568.67
+444,Smartwatch,750.73
+445,Monitor,2455.15
+446,Teclado Mecânico,473.3
+447,Mouse Gamer,4871.81
+448,Fone de Ouvido Bluetooth,3308.8
+449,SSD NVMe,2823.88
+450,Placa de Vídeo,217.23
+451,Processador,3101.84
+452,Memória RAM,2747.58
+453,Placa Mãe,1938.03
+454,Fonte de Alimentação,625.46
+455,Gabinete Gamer,4096.13
+456,Impressora 3D,177.89
+457,Carregador Portátil,3043.49
+458,Câmera de Segurança,3270.83
+459,Roteador Wi-Fi,4496.07
+460,Drone,3018.48
+461,Laptop,168.67
+462,Smartphone,4938.8
+463,Tablet,961.79
+464,Smartwatch,1405.82
+465,Monitor,1175.79
+466,Teclado Mecânico,585.03
+467,Mouse Gamer,4051.23
+468,Fone de Ouvido Bluetooth,3972.59
+469,SSD NVMe,121.13
+470,Placa de Vídeo,4702.72
+471,Processador,237.53
+472,Memória RAM,1733.02
+473,Placa Mãe,2806.41
+474,Fonte de Alimentação,3003.93
+475,Gabinete Gamer,3460.19
+476,Impressora 3D,3022.86
+477,Carregador Portátil,355.88
+478,Câmera de Segurança,1306.55
+479,Roteador Wi-Fi,3738.49
+480,Drone,4656.38
+481,Laptop,1321.96
+482,Smartphone,2108.72
+483,Tablet,2133.68
+484,Smartwatch,4326.13
+485,Monitor,1982.93
+486,Teclado Mecânico,4163.34
+487,Mouse Gamer,4803.89
+488,Fone de Ouvido Bluetooth,2101.32
+489,SSD NVMe,4299.28
+490,Placa de Vídeo,4016.35
+491,Processador,855.44
+492,Memória RAM,477.85
+493,Placa Mãe,4141.4
+494,Fonte de Alimentação,2668.98
+495,Gabinete Gamer,2618.57
+496,Impressora 3D,1658.65
+497,Carregador Portátil,896.54
+498,Câmera de Segurança,2170.93
+499,Roteador Wi-Fi,2016.5
+500,Drone,3421.76

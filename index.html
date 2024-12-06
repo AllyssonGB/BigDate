@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Navigation Bar Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/d3@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-cloud"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <h1 class="logo" style="font-family: 'Silkscreen', cursive; font-size: 48px; text-align: center; text-shadow: 0 0 10px rgba(255, 215, 0, 0.8), 0 0 20px rgba(255, 215, 0, 0.6); color: #FFD700;">
+                TECHDATE
+            </h1>
+            <nav>
+                <ul class="nav-bar">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Home Page -->
+        <section id="home" class="page active">
+            <div class="buttons">
+                <button onclick="showSection('feedback')">Feedback</button>
+                <button onclick="showSection('exploratoryAnalysis')">Análise Exploratória</button>
+                <button onclick="showSection('models')">Modelos</button>
+            </div>
+            <div id="feedback" class="section">
+                <h2>Feedback</h2>
+                <div id="wordCloud"></div>
+                <div id="feedbackCards" class="cards-container">
+                    <div class="card">
+                        <div class="card-header">Client Feedback #1</div>
+                        <div class="card-body">
+                            <p>Right all according be scientist group last.</p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">Client Feedback #2</div>
+                        <div class="card-body">
+                            <p>Watch main set pull carry side year.</p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">Client Feedback #3</div>
+                        <div class="card-body">
+                            <p>Can house will popular none green challenge while want debate not.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="exploratoryAnalysis" class="section hidden">
+                <h2>Análise Exploratória</h2>
+                <div class="charts-container">
+                    <canvas id="exploratoryChart"></canvas>
+                    <canvas id="customerChart"></canvas>
+                    <canvas id="topProductsChart"></canvas>
+                    <canvas id="salesByRegionChart"></canvas>
+                    <canvas id="marketingExpensesChart"></canvas>
+                    <canvas id="productCategoryChart"></canvas>
+                    <canvas id="revenueByRegionChart"></canvas>
+                </div>
+            </div>
+            <div id="models" class="section hidden">
+                <h2>Modelos</h2>
+                <p>Conteúdo da seção de Modelos.</p>
+                <div class="charts-container-modelos">
+                    <canvas id="forecastChart"></canvas>
+                    <canvas id="graficoVendasFuturo"></canvas>
+                    <canvas id="investmentChart"></canvas>
+                    <canvas id="produtostop10"></canvas>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        function showSection(sectionId) {
+            document.querySelectorAll('.section').forEach(section => {
+                section.classList.add('hidden');
+            });
+            document.getElementById(sectionId).classList.remove('hidden');
+        }
+        window.onload = function() {
+            showSection('feedback');
+            updateSalesChart(); 
+            updateCustomerChart(); 
+        };
+    </script>
+
+    <style>
+        .hidden {
+            display: none;
+        }
+    </style>
+    <script src="script.js"></script>
+    <script src="modelos.js"></script>
+    <footer class="fot">
+        <h3>TECHDATE&copy;</h3>
+        <p>Desenvolvido por: Lucas Nunes, Allysson Gabriel, Jhonatan Inácio,Jacciano do Nascimento, Davi Roberto <br>
+            Trabalho de Big Data: Análises exploratórias realizadas para entender melhor os dados e extrair insights valiosos.
+        </p> 
+        <div class="container">
+            <div class="fo">
+                <a href="https://linkedin.com/" target="_blank"> <i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                <a href="https://instagram.com/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="https://github.com/" target="_blank"> <i class="fa fa-github" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/" target="_blank"> <i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
